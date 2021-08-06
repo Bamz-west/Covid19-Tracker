@@ -1,0 +1,11 @@
+.footer {
+	height: 100px;
+	width: 100%;
+	background: linear-gradient(rgba(18, 98, 255, 0.9), rgba(18, 98, 225, 0.9)), url("../../images/corona.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.footer p {
+	text-align: center;
+}
